@@ -1,4 +1,4 @@
-package com.eventoapp.EventoApp;
+package com.eventoapp.EventoApp.controllers;
 
 
 import org.springframework.stereotype.Controller;
